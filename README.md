@@ -105,13 +105,4 @@ Projeto desenvolvido para fins acadêmicos com o objetivo de aplicar conceitos d
 
 ## 👨‍💻 Autor
 
-Thiago Chaves dos Santos
-
-GitHub:
-[https://github.com/ThiagoFroz](https://github.com/ThiagoFroz)
-
----
-
-# Descrição curta para o GitHub
-
-Sistema de comunicação cliente-servidor em Java utilizando sockets TCP/IP para troca de mensagens em tempo real.
+Thiago Froz Chaves
