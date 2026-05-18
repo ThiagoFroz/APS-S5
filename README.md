@@ -286,7 +286,8 @@ Porta: 45454
 # Integrantes
 
 * Thiago Chaves dos Santos
-* Alenxandrino Elieu da Silva Guedes
+* Alexandrino Elizeu da Silva Guedes
+
 ---
 
 # Licença
