@@ -290,6 +290,39 @@ Porta: 45454
 
 ---
 
+# Referências
+
+Este projeto foi desenvolvido para fins acadêmicos com o objetivo de demonstrar conceitos de comunicação em redes utilizando o protocolo TCP/IP em Java.
+
+Durante o desenvolvimento foram utilizados como base de estudo:
+
+* Documentação oficial da linguagem Java
+* Materiais acadêmicos sobre arquitetura cliente-servidor
+* Estudos sobre Java Socket Programming
+* Conteúdos relacionados a Threads e concorrência em Java
+* Projetos públicos disponíveis no GitHub voltados para comunicação TCP/IP
+
+Parte da estrutura inicial e conceitos de implementação foram inspirados no repositório:
+
+* [APS-UNIP-5sem - ogabriel](https://github.com/ogabriel/APS-UNIP-5sem?utm_source=chatgpt.com)
+
+O sistema foi posteriormente adaptado, reorganizado, documentado e refatorado para atender aos objetivos acadêmicos desta aplicação.
+
+As principais modificações realizadas incluem:
+
+* Reorganização completa da arquitetura do projeto
+* Separação em camadas (`main`, `chatform` e `connection`)
+* Refatoração da lógica de comunicação
+* Implementação e reorganização das Threads
+* Melhorias na estrutura orientada a objetos
+* Criação da documentação técnica
+* Melhorias na interface gráfica
+* Organização do fluxo de conexão cliente-servidor
+
+Este projeto possui finalidade exclusivamente educacional e acadêmica.
+
+---
+
 # Licença
 
 Este projeto utiliza a licença MIT.
