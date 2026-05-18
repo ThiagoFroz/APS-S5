@@ -9,8 +9,8 @@ O sistema permite múltiplos clientes conectados simultaneamente a um servidor c
 O objetivo principal do projeto é demonstrar o funcionamento de:
 
 * Comunicação TCP/IP
-* Programação orientada a objetos
-* Programação concorrente com Threads
+* Programação Orientada a Objetos
+* Programação Concorrente com Threads
 * Manipulação de Sockets em Java
 * Interfaces gráficas utilizando Swing
 * Broadcast de mensagens
@@ -172,6 +172,51 @@ Socket(IP, Porta)
 
 ---
 
+# Instalação do Java
+
+Para executar o projeto é necessário possuir o Java JDK 17 ou superior instalado na máquina.
+
+## Linux (Ubuntu/Linux Mint)
+
+Instalação do OpenJDK 17:
+
+```bash
+sudo apt update
+sudo apt install openjdk-17-jdk
+```
+
+Verificar instalação:
+
+```bash
+java -version
+```
+
+---
+
+## Windows
+
+Baixe e instale o OpenJDK através do Eclipse Adoptium:
+
+* https://adoptium.net/
+
+Após a instalação, verifique no Prompt de Comando:
+
+```bash
+java -version
+```
+
+---
+
+## Verificação Esperada
+
+O terminal deverá exibir algo semelhante a:
+
+```text
+openjdk version "17"
+```
+
+---
+
 # Como Executar
 
 ## Requisitos
@@ -304,7 +349,7 @@ Durante o desenvolvimento foram utilizados como base de estudo:
 
 Parte da estrutura inicial e conceitos de implementação foram inspirados no repositório:
 
-* [APS-UNIP-5sem - ogabriel](https://github.com/ogabriel/APS-UNIP-5sem?utm_source=chatgpt.com)
+* https://github.com/ogabriel/APS-UNIP-5sem
 
 O sistema foi posteriormente adaptado, reorganizado, documentado e refatorado para atender aos objetivos acadêmicos desta aplicação.
 
